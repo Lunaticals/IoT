@@ -8,3 +8,5 @@ alv a ver si ahora si
 Cambio en GitHub para test Pull con GitBash?!
 
 2do intento de lo anterior XD
+
+retest git add
